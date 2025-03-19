@@ -1,4 +1,4 @@
-# robocopyfile
+# ROBOCOPY
 Robocopy (от англ. Robust File Copy) — утилита командной строки для репликации (не просто копирования) каталогов (папок).
 
 Программа RobocopyFile.exe на C#  
